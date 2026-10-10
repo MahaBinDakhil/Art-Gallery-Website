@@ -1,6 +1,6 @@
 # Koro's Gallery !
 
-A personal art portfolio website made for CSC457: Internet Technologies (HW3).
+A personal art portfolio website.
 
 ## Live Site
 https://hw3.-------
