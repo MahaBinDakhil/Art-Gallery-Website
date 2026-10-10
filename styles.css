@@ -27,7 +27,7 @@ footer a {
 
 body {
     background-image: url(images/paper-texture.jpg);
-    font-family: "Segoe Print", "Comic Sans MS", cursive;
+    font-family: "Segoe Print", "Comic Sans MS", "Chalkboard SE", casual, sans-serif;
 }
 
 
@@ -77,7 +77,7 @@ p {
     text-transform: none;
 }
 pre{
-    font-family: "Segoe Print", "Comic Sans MS", cursive;
+    font-family: "Segoe Print", "Comic Sans MS", "Chalkboard SE", casual, sans-serif;
 }
 
 ul{
